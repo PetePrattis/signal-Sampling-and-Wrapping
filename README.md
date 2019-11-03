@@ -13,7 +13,7 @@ and is one of the final projects for the class_
 
 > #### Conclusions of project
 >
-> * Observing the last graph, we conclude that the signal y2 because it has the highest frequency (f = 1020Hz) of the 4 signals, has the shortest wavelength, while the y3 because it has the least frequency (f = 100Hz) has the longest wavelength . We also realize that the signal y2 is closer to the original signal y = x (t), which means that we have less information loss, whereas at the signal y3 due to the low sampling frequency the signal is significantly different from the original. Therefore, the signal y1 satisfying the sampling theorem is assumed to have little signal loss and holds most of the original signal information faithful.
+> Observing the last graph, we conclude that the signal y2 because it has the highest frequency (f = 1020Hz) of the 4 signals, has the shortest wavelength, while the y3 because it has the least frequency (f = 100Hz) has the longest wavelength . We also realize that the signal y2 is closer to the original signal y = x (t), which means that we have less information loss, whereas at the signal y3 due to the low sampling frequency the signal is significantly different from the original. Therefore, the signal y1 satisfying the sampling theorem is assumed to have little signal loss and holds most of the original signal information faithful.
 
 
 > #### About this project
